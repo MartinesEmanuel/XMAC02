@@ -1,0 +1,2 @@
+# XMAC02
+Repositório da disciplina XMAC02 -  MÉTODOS MATEMÁTICOS PARA ANÁLISE DE DADOS
